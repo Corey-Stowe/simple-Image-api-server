@@ -1,0 +1,4 @@
+drop your custom url image to respone with link example:
+https://cdn.discordapp.com/attachments/858938455060119563/886951662617497630/Anime_Hyouka_Oreki_houtaruo.jpg
+https://cdn.discordapp.com/attachments/858938455060119563/885818381616431114/illust_91672148_20210910_162049.jpg
+https://cdn.discordapp.com/attachments/858938455060119563/885818381020823553/illust_91226470_20210910_162304.jpg
