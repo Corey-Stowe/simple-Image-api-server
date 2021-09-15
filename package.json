@@ -1,0 +1,30 @@
+{
+  "name": "image-api-server",
+  "version": "1.0.0",
+  "description": "'-'",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "select-random-file": "1.2.0",
+    "polka": "0.5.2",
+    "@polka/send-type": "0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corey-Stowe/simple-Image-api-server.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Stowe & Maihuybao",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Corey-Stowe/simple-Image-api-server/issues"
+  },
+  "homepage": "https://github.com/Corey-Stowe/simple-Image-api-server#readme"
+}
